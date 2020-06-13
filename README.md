@@ -1,7 +1,8 @@
-### 2020 Shopee Code League
+## 2020 Shopee Code League - Team Jack Wilder
 
-#### Competitions
+### Competitions
 - [x] Competition #1: Order Brushing
+
 Category: Data Analytics
 Ranking : 329 / 966 (34%)
 Score : 0.82310 (Full Marks: 1.00000)
