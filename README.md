@@ -4,8 +4,11 @@
 - [x] Competition #1: Order Brushing
 
 Category: Data Analytics
+
 Ranking : 329 / 966 (34%)
+
 Score : 0.82310 (Full Marks: 1.00000)
+
 Duration: 2020/06/13 14:30 - 2020/06/13 17:30
 
 - Competition #2: Product Detection
