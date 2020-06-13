@@ -1,4 +1,5 @@
 ## 2020 Shopee Code League - Team Jack Wilder
+> official website: https://careers.shopee.sg/codeleague/
 
 ### Competitions
 - [x] **Competition #1: Order Brushing**
@@ -6,6 +7,7 @@
   - Ranking : 329 / 966 (34%)
   - Score : 0.82310 (Full Marks: 1.00000)
   - Duration: 2020/06/13 14:30 - 2020/06/13 17:30
+  - [Kaggle page](https://www.kaggle.com/c/students-order-brushing-1/leaderboard#score)
 
 - [ ] **Competition #2: Product Detection**
   - Category: Data Science
