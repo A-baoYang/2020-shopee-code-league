@@ -6,6 +6,7 @@
   - Category: Data Analytics
   - Ranking : 329 / 966 (34%)
   - Score : 0.82310 (Full Marks: 1.00000)
+  - > Late Submission Score : 0.88705
   - Duration: 2020/06/13 14:30 - 2020/06/13 17:30
   - [Kaggle page](https://www.kaggle.com/c/students-order-brushing-1/leaderboard#score)
 
