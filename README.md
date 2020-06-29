@@ -4,9 +4,9 @@
 ### Competitions
 - [x] **Competition #1: Order Brushing**
   - Category: Data Analytics
-  - Ranking : 329 / 966 (34%)
-  - Score : 0.82310 (Full Marks: 1.00000)
-  - > Late Submission Score : 0.88705
+  - Ranking: 329 / 966 (34%)
+  - Score: 0.82310 (Full Marks: 1.00000)
+  - > Late Submission Score: 0.88705
   - Duration: 2020/06/13 14:30 - 2020/06/13 17:30
   - [Kaggle page](https://www.kaggle.com/c/students-order-brushing-1/leaderboard#score)
 
@@ -14,7 +14,7 @@
   - Category: Data Science
   - Duration: 2020/06/20 14:00 - 2020/06/20 17:00
 
-- [ ] Competition #3: Short Algorithm 1
+- [x] Competition #3: Short Algorithm 1
   - Category: Algorithm
   - Duration: 2020/06/27 14:00 - 2020/06/27 17:00
 
