@@ -1,4 +1,5 @@
-## 2020 Shopee Code League - Team Jack Wilder
+## 2020 Shopee Code League 
+(personal record)
 > official website: https://careers.shopee.sg/codeleague/
 
 ### Competitions
