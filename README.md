@@ -12,7 +12,7 @@
   - [Dataset](https://www.kaggle.com/muhammadjafar/orderbrushing)
 
 
-- **[Competition #2: Product Detection]**(https://www.kaggle.com/c/shopee-product-detection-student/leaderboard)
+- **[Competition #2: Product Detection](https://www.kaggle.com/c/shopee-product-detection-student/leaderboard)**
   - Category: Data Science
   - Ranking: 597 / 823 (72.53%)
   - Score: 
@@ -28,7 +28,7 @@
   - Duration: 2020/06/27 14:00 - 2020/06/27 17:00
 
 
-- **[Competition #4: Title Translation]**(https://careers.shopee.sg/codeleague/title_translation_challenge)
+- **[Competition #4: Title Translation](https://careers.shopee.sg/codeleague/title_translation_challenge)**
   - (link's broken...)
   - Category: Data Science
   - Ranking: -- / -- (--%)
@@ -38,7 +38,7 @@
   - Duration: 2020/07/04 14:00 - 2020/07/04 17:00
 
 
-- **[Competition #5: Logistics]**(https://www.kaggle.com/c/logistics-shopee-code-league/leaderboard)
+- **[Competition #5: Logistics](https://www.kaggle.com/c/logistics-shopee-code-league/leaderboard)**
   - Category: Data Analytics
   - Ranking: 434 / 547 (79.34%)
   - Score: 
@@ -47,7 +47,7 @@
   - Duration: 2020/07/11 14:00 - 2020/07/11 17:00
 
 
-- **[Competition #6: Sentiment Analysis]**(https://www.kaggle.com/c/student-shopee-code-league-sentiment-analysis/leaderboard)
+- **[Competition #6: Sentiment Analysis](https://www.kaggle.com/c/student-shopee-code-league-sentiment-analysis/leaderboard)**
   - Category: Data Science
   - Ranking: 264 / 356 (74.15%)
   - Score: 
@@ -56,7 +56,7 @@
   - Duration: 2020/07/18 14:00 - 2020/07/18 17:00
 
 
-- **[Competition #7: Marketing Analytics]**(https://www.kaggle.com/c/student-shopee-code-league-marketing-analytics)
+- **[Competition #7: Marketing Analytics](https://www.kaggle.com/c/student-shopee-code-league-marketing-analytics)**
   - Category: Data Analytics
   - Ranking: 122 / 368 (33.15%)
   - Score: 
