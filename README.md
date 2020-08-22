@@ -5,7 +5,7 @@
 ### Competitions
 - **[Competition #1: Order Brushing](https://www.kaggle.com/c/students-order-brushing-1/leaderboard)**
   - Category: Data Analytics
-  - Ranking: 329 / 966 (34%)
+  - Ranking: 329 / 966 (**34%**)
   - Score
     - PublicBoard: 0.88705 (Full Marks: 1.00000)
   - Duration: 2020/06/13 14:30 - 2020/06/13 17:30
@@ -58,7 +58,7 @@
 
 - **[Competition #7: Marketing Analytics](https://www.kaggle.com/c/student-shopee-code-league-marketing-analytics)**
   - Category: Data Analytics
-  - Ranking: 122 / 368 (33.15%)
+  - Ranking: 122 / 368 (**33.15%**)
   - Score: 
     - PublicBoard: 0.51344 (Full Marks: 0.54123)
     - PrivateBoard: 0.50494 (Full Marks: 0.53998)
