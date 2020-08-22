@@ -3,7 +3,7 @@
 > official website: https://careers.shopee.sg/codeleague/
 
 ### Competitions
-- **[Competition #1: Order Brushing]**(https://www.kaggle.com/c/students-order-brushing-1/leaderboard)
+- [Competition #1: Order Brushing](https://www.kaggle.com/c/students-order-brushing-1/leaderboard)
   - Category: Data Analytics
   - Ranking: 329 / 966 (34%)
   - Score
